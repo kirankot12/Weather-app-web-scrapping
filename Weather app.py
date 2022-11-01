@@ -1,4 +1,4 @@
-from ssl import ALERT_DESCRIPTION_UNKNOWN_PSK_IDENTITY
+
 from tkinter import *
 import requests 
 import json
